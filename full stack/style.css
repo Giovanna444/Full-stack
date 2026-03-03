@@ -1,0 +1,20 @@
+/* p{
+    color:rgba(10, 99, 72, 0.739);
+    font-size: 15pt;
+} */
+h1{
+    color:rgb(0, 128, 102);
+    font-size: 20pt;
+}
+/* div p{
+    color:rgb(0, 255, 8);
+} */
+.teste{
+    color:rgba(204, 0, 255, 0.706);
+}
+a:hover{
+    color: rgb(192, 56, 79);
+}
+ol{
+    color:rgb(6, 154, 149);
+}
