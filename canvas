@@ -1,0 +1,18 @@
+// arco
+ctx.beginPath();
+ctx.lineWidth = 2;
+ctx.fillStyle = 'yellow';
+ctx.strokeStyle = 'yellow';
+ctx.arc(500,100,50,1.5*Math.PI,1.5*Math.PI);
+ctx.fill();
+ctx.stroke();
+ctx.closePath();
+
+// retângulo
+ctx.beginPath();
+ctx.lineWidth = 2;
+ctx.fillStyle = 'brown';
+ctx.strokeStyle = 'brown';
+ctx.fillRect(10,10,50,50);
+ctx.strokeRect(10,10,50,50);
+ctx.closePath();
